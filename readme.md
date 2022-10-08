@@ -9,9 +9,8 @@
 
 
 #### A visual
-![bigdatahackathon4sd](https://www.google.com/url?sa=i&url=https%3A%2F%2Froundtmc.com%2Fhealth-insurance-explained%2F&psig=AOvVaw3tG7X8iQqQvw8Amf54JQ12&ust=1665352393176000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDB7KHP0foCFQAAAAAdAAAAABAD")  
+![bigdatahackathon4sd](https://roundtmc.com/wp-content/uploads/2017/09/health-insurance.jpg)  
 
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
 
 
 #### Hackathon Theme(s) (check a box(es))

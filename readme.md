@@ -5,7 +5,7 @@
 #### Team Name: `YesInsurance`    
   
 #### Your team’s hackathon idea in One sentence:
-##### `Creating a platform that amplifies UX by simplifying the process of finding and applying to insurance for both providers and consumers.`
+##### `Creating a medical marketplace that amplifies UX by simplifying the process of finding and applying to insurance for both providers and consumers.`
 
 
 #### A visual
